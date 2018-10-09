@@ -1,6 +1,6 @@
 ## Ticketchain - A blockchain ticketing website and miner
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/7300d25065b0d59b7a84/maintainability)](https://codeclimate.com/github/jeff1108/blockchain-ticketing-app/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/7300d25065b0d59b7a84/test_coverage)](https://codeclimate.com/github/jeff1108/blockchain-ticketing-app/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/620c96f22df04ba1975b/maintainability)](https://codeclimate.com/github/archmagos/ticketchain-front-end/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/620c96f22df04ba1975b/test_coverage)](https://codeclimate.com/github/archmagos/ticketchain-front-end/test_coverage)
 
 A blockchain-based ticketing app which allows users to purchase concert tickets and stores the validated transactions on a blockchain. Created as a final group project during the Makers Academy bootcamp in August 2018.
 
@@ -8,7 +8,7 @@ This repository contains the ticket purchasing website that sends data to our bl
 
 ## How to run
 
-To deploy locally, our back-end server needs to be run in conjunction with the web front-end. Please download or clone both this repository [and the back-end](https://github.com/archmagos/ticketchain) (following the instructions in that repository to get the back-end running). 
+To deploy locally, our back-end server needs to be run in conjunction with the web front-end. Please download or clone both this repository [and the back-end](https://github.com/archmagos/ticketchain) (following the instructions in that repository to get the back-end running).
 
 The following commands will install project dependencies and host the ticket purchasing site on ``http://localhost:3000``. Transactions that are made on the front-end will subsequently appear as unverified-transactions within the miner.
 

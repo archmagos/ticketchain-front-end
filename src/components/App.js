@@ -15,7 +15,7 @@ export class App extends Component {
           </a>
           <div className='header-links'>
             <a href='/'>BUY TICKETS</a>
-            <a href='https://blockheads-backend.herokuapp.com/' id='space-left-link'>VIEW BLOCKCHAIN</a>
+            <a href='http://localhost:9292' id='space-left-link'>VIEW BLOCKCHAIN</a>
           </div>
         </div>
         <div className='content'>

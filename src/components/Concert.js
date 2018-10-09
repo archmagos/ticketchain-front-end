@@ -4,15 +4,15 @@ import { withRouter } from 'react-router-dom';
 
 // These constants are temporary measures and will eventually be replaced
 const MAXIMUM_PRICE = 600;
-const SENDER_ADDRESS = '61709B365969C742160B4A365A9D43216B118AD5B626D07B81FEDD4F88DA9943';
-const RECEIVER_ADDRESS = '525410238F3386EECD7E7D4682E124B193B41DDC3FF9D36AADE4406F07A83E2A';
+const SENDER_ADDRESS = '61709b365969c742160b4a365a9d43216b118ad5b626d07b81fedd4f88da9943';
+const RECEIVER_ADDRESS = '525410238f3386eecd7e7d4682e124b193b41ddc3ff9d36aade4406f07a83e2a';
 
 class Concert extends Component {
 
   handleClick(e) {
     e.preventDefault();
 
-    fetch('https://blockheads-backend.herokuapp.com/transaction', {
+    fetch('http://localhost:9292/transaction', {
       method: 'POST',
       body: JSON.stringify(
         {
