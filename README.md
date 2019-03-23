@@ -1,6 +1,6 @@
 ## Ticketchain - A blockchain ticketing website and miner
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/620c96f22df04ba1975b/maintainability)](https://codeclimate.com/github/archmagos/ticketchain-front-end/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/620c96f22df04ba1975b/test_coverage)](https://codeclimate.com/github/archmagos/ticketchain-front-end/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/620c96f22df04ba1975b/maintainability)](https://codeclimate.com/github/archmagos/ticketchain-front-end/maintainability)
 
 A blockchain-based ticketing app which allows users to purchase concert tickets and stores the validated transactions on a blockchain. Created as a final group project during the Makers Academy bootcamp in August 2018.
 
@@ -28,5 +28,5 @@ The following commands will install project dependencies and host the ticket pur
 > npm run cypress:open
 ```
 
-## Authors/Credits
-[Ben](https://github.com/Ben-893) / [Daniel](https://github.com/dct-lau17) / [Fred](https://github.com/archmagos) / [Jeff](https://github.com/jeff1108) / [Nabil](https://github.com/bilfar)
+## Authors
+[Contributors to this project](https://github.com/archmagos/ticketchain-front-end/graphs/contributors)
